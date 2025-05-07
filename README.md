@@ -44,7 +44,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Syedaashnaghazanfar&show_icons=true&theme=radical" alt="Ashna's GitHub stats" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Syedaashnaghazanfar&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=syedaashnaghazanfar&theme=radical" />
 </p>
 
 ---
