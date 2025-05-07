@@ -30,7 +30,7 @@
 
 ### 🚀 Links that might help you
 
-- 💥 [**Marketplace App By Ashna Ghazanfar**](https://bandage-app-nine.vercel.app/) – _A modern, responsive frontend app with a clean UI_  
+- 💥 [**Marketplace App By Ashna Ghazanfar**](https://bandage-app-nine.vercel.app/) – _A modern, responsive full stack project for sell with a clean UI_  
 - 🌐 [**Portfolio**](https://ashna-ghazanfar.vercel.app/) – _See my projects, skills, and contact info_  
 - 🔗 [**LinkedIn**](https://www.linkedin.com/in/ashna-ghazanfar-b268522b4/) – _Let’s connect!_
 
