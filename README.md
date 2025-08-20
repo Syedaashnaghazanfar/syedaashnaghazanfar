@@ -40,8 +40,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Syedaashnaghazanfar&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <br/>
-  
 </p>
 
 ---
@@ -52,6 +50,14 @@
 - Build a collaborative **AI-powered marketplace**
 - Contribute to **open-source** projects
 - Grow as a **developer & researcher**
+
+---
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Syedaashnaghazanfar&theme=onedark&row=1&column=6" alt="GitHub Trophies" />
+</p>
 
 ---
 
